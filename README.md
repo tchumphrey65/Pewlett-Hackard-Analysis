@@ -57,9 +57,23 @@ https://github.com/tchumphrey65/Pewlett-Hackard-Analysis/blob/main/Data/retiring
 
 ### 2. The Employees Eligible for the Mentorship Program
 There are 1549 employees eligible for the mentorship program.
+The list of employees eligible are provided in mentorship_eligibility.csv, link below.
 
+https://github.com/tchumphrey65/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv
 
+The titles of those eligible for the mentorship program are shown below.  Six (6) unique titles make up the population of mentees.
 
+![image](https://user-images.githubusercontent.com/91839403/148708554-0afe09f0-d5aa-4021-bda6-4cea1cb6a650.png)
 
+### 3. Summary
+The "silver tsunami" consists of 72,458 current employees eligible for retirement from 7 different job titles will in P-H.
+This is as significant number of employees mainly from Engineering and technical roles.  This loss of experience certainly provides a risk and represents the loss of significant years of experience.  The There are plenty of retiring employees to provide metoriing and transfer knowledge to the next generation of employees.
 
+Unfortunately with only 1,549 employees eligible for the mentor program there are not enough employees to bridge the gap of retirements.  This would suggesst that a broader or expanded criteria is needed to identify mentors to pair with the retiring mentors. 
+
+With the impact of this wave of retirements pending additional analysis is needed to create mitigation actions:
+Two additional queries that could be performed to provide insight would be:
+
+Query to generate a list of employees that are eligible to retire by department (for all departments).
+Query all employees, sorted by length of service, by department with expanded date ranges to increase eligibility to participate in the mentorship program.
 
