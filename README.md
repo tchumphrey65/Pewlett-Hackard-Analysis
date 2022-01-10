@@ -20,11 +20,15 @@ Software: PostgreSQL 11.14; PgAdmin 6.1; VS Code version 1.63.2
 
 The total list of retirement eligible employees in the dataabase is 133,766.  The file that contains this result is contained below.  This file requires analysis as it contains duplicates where employees have changed rols, titles or been promoted.
 
+https://github.com/tchumphrey65/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv
+
+![image](https://user-images.githubusercontent.com/91839403/148708312-a00c5351-7481-4c20-be05-1b53d7068d21.png)
 
 
 
 
-This analysis identified 72,458 employees currently employed by Pewlett-Hackard who qualify for retirement.
+
+This analysis identified 72,458 specific employees, after removal of duplicates, who are currently employed by Pewlett-Hackard and qualify for retirement per the specification provided.
 The retiring employees come from 7 different job titles. The table is provided below.
 
 Sample output - Retiring employees with more current title:
