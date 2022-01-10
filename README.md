@@ -25,7 +25,7 @@ Sample output - Retiring employees with more current title:
 ![image](https://user-images.githubusercontent.com/91839403/148707416-f517d857-5e46-4d08-b571-f264db61972d.png)
 
 Complete list of retiring employees contained in file "unique_titles.csv"
-
+https://github.com/tchumphrey65/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv
 
 Query used to create retiring employees list
 
@@ -35,9 +35,14 @@ Query used to create retiring employees list
 
 ![image](https://user-images.githubusercontent.com/91839403/148707639-85646012-c971-47dc-8e88-efe9df8ef4b2.png)
 
+Complete list of retiring employees contained in file "retiring_titles.csv"
+
+
+
 #### Query used to determine Number of Retiring Employees by Title
 
 ![image](https://user-images.githubusercontent.com/91839403/148707693-9017686b-f796-4440-8838-c88ea8d34685.png)
+
 
 ### 2. The Employees Eligible for the Mentorship Program
 
