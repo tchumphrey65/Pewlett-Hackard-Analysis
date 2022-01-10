@@ -17,6 +17,13 @@ Software: PostgreSQL 11.14; PgAdmin 6.1; VS Code version 1.63.2
 ## Results
 ### 1. The Number of Retiring Employees by Title
 
+
+The total list of retirement eligible employees in the dataabase is 133,766.  The file that contains this result is contained below.  This file requires analysis as it contains duplicates where employees have changed rols, titles or been promoted.
+
+
+
+
+
 This analysis identified 72,458 employees currently employed by Pewlett-Hackard who qualify for retirement.
 The retiring employees come from 7 different job titles. The table is provided below.
 
@@ -35,8 +42,8 @@ Query used to create retiring employees list
 
 ![image](https://user-images.githubusercontent.com/91839403/148707639-85646012-c971-47dc-8e88-efe9df8ef4b2.png)
 
-Complete list of retiring employees contained in file "retiring_titles.csv"
-
+Summary of the number of employees retiring by title contained in file "retiring_titles.csv"
+https://github.com/tchumphrey65/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv
 
 
 #### Query used to determine Number of Retiring Employees by Title
@@ -45,6 +52,8 @@ Complete list of retiring employees contained in file "retiring_titles.csv"
 
 
 ### 2. The Employees Eligible for the Mentorship Program
+There are 1549 employees eligible for the mentorship program.
+
 
 
 
