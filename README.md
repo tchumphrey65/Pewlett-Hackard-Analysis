@@ -71,9 +71,10 @@ This is as significant number of employees mainly from Engineering and technical
 
 Unfortunately with only 1,549 employees eligible for the mentor program there are not enough employees to bridge the gap of retirements.  This would suggesst that a broader or expanded criteria is needed to identify mentors to pair with the retiring mentors. 
 
-With the impact of this wave of retirements pending additional analysis is needed to create mitigation actions:
+With the impact of this wave of retirements pending, additional analysis is needed to create mitigation actions:
 Two additional queries that could be performed to provide insight would be:
 
-Query to generate a list of employees that are eligible to retire by department (for all departments).
-Query all employees, sorted by length of service, by department with expanded date ranges to increase eligibility to participate in the mentorship program.
+There are several additional queries that could be generated, Two possible queries that could be performed and provide insight to possible solutions:
+1. Query to generate a list of employees that are eligible to retire by department (for all departments).
+2. Query all employees, sorted by length of service, by department with expanded date ranges to increase eligibility to participate in the mentorship program.
 
